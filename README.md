@@ -11,7 +11,6 @@
   <a href="https://open.spotify.com/track/6pBeLF2GZS3NNwV4DBvtg5?si=yF54larZTO2_6xiWeRMNmA" target="_blank">
     <span style="color:black; text-decoration:none;"><b>Northern Attitude by Noah Kahan and Hozier.</b></span>
   </a><br>
-  • I also enjoy playing guitar. <img src="./C.gif" width="28" height="28" alt="Guitar" style="vertical-align: middle;" />
 </p>
 
 ---
