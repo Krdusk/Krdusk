@@ -17,8 +17,8 @@
 
 ## Connect with Me:
 <p align="center">
-  <a href="https://www.facebook.com/share/1CQS1YBkfC/?mibextid=qi2Omg" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-006AFF?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://m.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Messenger-006AFF?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
   <a href="mailto:santossam969@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
