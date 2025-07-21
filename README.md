@@ -11,7 +11,7 @@
   • I like coding in silence or with music that feels like quiet rain.<br>
   • Lately, I’ve been looping 
   <a href="https://open.spotify.com/track/6pBeLF2GZS3NNwV4DBvtg5?si=yF54larZTO2_6xiWeRMNmA" target="_blank">
-    <span style="color:black; text-decoration:none;"><b>Northern Attitude</b> by Noah Kahan & Hozier.</span>
+    <span style="color:black; text-decoration:none;"><b>Northern Attitude</b> by Noah Kahan & Hozier
   </a>.
 </p>
 
