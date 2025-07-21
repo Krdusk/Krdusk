@@ -1,16 +1,18 @@
 <h1 align="center" style="color:#81A1C1;">Hi. I’m Sam.</h1>
 
 <p align="center" style="color:#D8DEE9;">
-  • I’m a <b>Computer Science</b> student<br>
-  at <b>National University Philippines</b>.<br>
-  • I’m sill learning to create real-world applications and websites.
+  • A <b>Computer Science</b> student<br>
+  from <b>National University Philippines.</b>.<br>
+  • Still learning how to build things that actually work.<br>
+  • Mostly introverted—thinking more than talking.
 </p>
 
 <p align="center" style="color:#D8DEE9;">
-  • I kind of like coding while listening to 
+  • I like coding in silence or with music that feels like quiet rain.<br>
+  • Lately, I’ve been looping 
   <a href="https://open.spotify.com/track/6pBeLF2GZS3NNwV4DBvtg5?si=yF54larZTO2_6xiWeRMNmA" target="_blank">
-    <span style="color:black; text-decoration:none;"><b>Northern Attitude by Noah Kahan and Hozier.</b></span>
-  </a><br>
+    <span style="color:black; text-decoration:none;"><b>Northern Attitude</b> by Noah Kahan & Hozier.</span>
+  </a>.
 </p>
 
 ---
@@ -39,7 +41,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
-
 
 ---
 
