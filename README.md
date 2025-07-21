@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Messenger-006AFF?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
   <a href="mailto:santossam969@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=email&logoColor=white" />
   </a>
 </p>
 
