@@ -2,7 +2,7 @@
 
 <p align="center" style="color:#D8DEE9;">
   • A <b>Computer Science</b> student<br>
-  from <b>National University Philippines.</b>.<br>
+  from <b>National University Philippines.</b><br>
   • Still learning how to build things that actually work.<br>
   • Mostly introverted—thinking more than talking.
 </p>
