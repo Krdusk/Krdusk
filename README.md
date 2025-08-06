@@ -19,7 +19,7 @@
 
 ## Connect with Me:
 <p align="center">
-  <a href="m.me/username" target="_blank">
+  <a href="https://www.messenger.com/e2ee/t/9956055807783666" target="_blank">
     <img src="https://img.shields.io/badge/Messenger-006AFF?style=for-the-badge&logo=messenger&logoColor=white" />
   </a>
   <a href="mailto:santossam969@gmail.com" target="_blank">
