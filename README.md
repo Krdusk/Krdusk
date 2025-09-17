@@ -20,7 +20,8 @@
 ## Connect with Me:
 <p align="center">
   <a href= "https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-006AFF?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook
+-006AFF?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="mailto:santossam969@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -36,6 +37,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
 </p>
 
 <p align="center">
