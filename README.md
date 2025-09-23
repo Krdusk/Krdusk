@@ -6,7 +6,6 @@
   • Still learning how to build things that actually work.<br>
   • Mostly introverted—thinking more than talking.
 </p>
-
 <p align="center" style="color:#D8DEE9;">
   • Lately, I’ve been looping 
   <a href="https://open.spotify.com/track/6pBeLF2GZS3NNwV4DBvtg5?si=yF54larZTO2_6xiWeRMNmA" target="_blank">
