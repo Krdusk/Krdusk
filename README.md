@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#81A1C1;">Hi. I’m Sam.</h1>
+<h1 align="center" style="color:#1DB954;">Hi. I’m Sam.</h1>
 
 <p align="center" style="color:#D8DEE9;">
   • A <b>Computer Science</b> student<br>
@@ -6,8 +6,14 @@
   • Still learning how to build things that actually work.<br>
   • Mostly introverted—thinking more than talking.
 </p>
-<p align="center" style="color:#D8DEE9;">
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" 
+         width="400" 
+         style="border-radius:12px; margin-top: 20px;">
+  </a>
+</p>
 
 ---
 
@@ -30,22 +36,22 @@
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=00000000&title_color=1DB954&text_color=D8DEE9" />
 </p>
 
 ---
 
 <h2 align="center">
-  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank">
-    <span style="color:black; text-decoration:none;">Miserable at Best.</span>
+  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank" style="text-decoration:none; color:#1DB954;">
+    Miserable at Best.
   </a>
 </h2>
 
 <p align="center">
-  <img src="./End.gif" width="200" title="This is where I pause." style="margin-top: 20px;" />
+  <img src="./End.gif" width="200" title="This is where I pause." style="margin-top: 20px; border-radius:50%;" />
 </p>
