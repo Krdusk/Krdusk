@@ -1,6 +1,6 @@
-<h1 align="center" style="color:#1DB954;">Hi. I’m Sam.</h1>
+<h1 align="center">Hi. I’m Sam.</h1>
 
-<p align="center" style="color:#D8DEE9;">
+<p align="center">
   • A <b>Computer Science</b> student<br>
   from <b>National University Philippines.</b><br>
   • Still learning how to build things that actually work.<br>
@@ -36,7 +36,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -44,13 +44,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=00000000&title_color=1DB954&text_color=D8DEE9" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=00000000" />
 </p>
 
 ---
 
 <h2 align="center">
-  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank" style="text-decoration:none; color:#1DB954;">
+  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank" style="text-decoration:none;">
     Miserable at Best.
   </a>
 </h2>
