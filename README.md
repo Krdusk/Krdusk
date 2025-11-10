@@ -9,15 +9,15 @@
 
 ---
 
-<p align="center" style="color:#D8DEE9; margin-top: 15px;">
-## Coffee:
+<p align="center" style="color:#D8DEE9; margin-top: 15px; font-size: 16px;">
+  <b>Coffee:</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=1DB954&bar_color_cover=true" 
-         width="400" 
-         style="border-radius:12px; margin-top:5px;">
+  <a href="https://open.spotify.com/user/31b5svyvfy3tqtk2oln3busdiz7e" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=true&theme=compact&show_offline=true&background_color=121212&bar_color=1DB954&bar_color_cover=true" 
+         width="350" 
+         style="border-radius:10px; margin-top:5px;">
   </a>
 </p>
 
