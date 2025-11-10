@@ -9,15 +9,13 @@
 
 ---
 
-<p align="center" style="color:#D8DEE9; margin-top: 15px; font-size: 16px;">
-  <b>Coffee:</b>
-</p>
-
+## Coffee:
 <p align="center">
   <a href="https://open.spotify.com/user/31b5svyvfy3tqtk2oln3busdiz7e" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=true&theme=compact&show_offline=true&background_color=121212&bar_color=1DB954&bar_color_cover=true" 
+    <img src="https://spotify-now-playing-kappa.vercel.app/api/spotify" 
+         alt="Spotify Now Playing" 
          width="350" 
-         style="border-radius:10px; margin-top:5px;">
+         style="border-radius:10px; box-shadow: 0 0 15px rgba(29,185,84,0.4);">
   </a>
 </p>
 
