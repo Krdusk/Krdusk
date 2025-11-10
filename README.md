@@ -54,7 +54,6 @@
     Miserable at Best.
   </a>
 </h2>
-
 <p align="center">
   <img src="./End.gif" width="200" style="margin-top: 20px; border-radius:50%;" />
 </p>
