@@ -7,11 +7,17 @@
   • Mostly introverted—thinking more than talking.
 </p>
 
+---
+
+<p align="center" style="color:#D8DEE9; margin-top: 15px;">
+  Coffee:
+</p>
+
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" 
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=1DB954&bar_color_cover=true" 
          width="400" 
-         style="border-radius:12px; margin-top: 20px;">
+         style="border-radius:12px; margin-top:5px;">
   </a>
 </p>
 
@@ -53,5 +59,5 @@
 </h2>
 
 <p align="center">
-  <img src="./End.gif" width="200" title="This is where I pause." style="margin-top: 20px; border-radius:50%;" />
+  <img src="./End.gif" width="200" style="margin-top: 20px; border-radius:50%;" />
 </p>
