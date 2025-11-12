@@ -9,7 +9,7 @@
 
 ---
 
-## Mood:
+## Peace Piece:
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" 
