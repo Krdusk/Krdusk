@@ -1,15 +1,13 @@
-<!-- ANIMATED NAME BOX -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi.%20I%20am%20Sam.&fontSize=42&fontAlignY=55&animation=fadeIn&color=000000&fontColor=ffffff&height=80" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi.%20I%20am%20Sam.&fontSize=42&fontAlignY=55&animation=fadeIn&color=E5E5E5&fontColor=000000&height=80" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=000000&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=6B6B6B&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines." />
 </p>
 
 ---
 
-<!-- ABOUT -->
 <p align="center">
   I focus on understanding fundamentals, writing structured code, and building systems that work reliably.<br>
   Quiet by nature, I value focus, logic, and continuous improvement.
@@ -17,8 +15,8 @@
 
 ---
 
-<!-- MUSIC -->
-<h3 align="center">Peace Piece:</h3>
+<h3 align="center">Peace Piece</h3>
+
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=false&theme=default&show_offline=true&background_color=ffffff&interchange=true"
@@ -26,7 +24,6 @@
          style="border-radius:12px;" />
   </a>
 </p>
-
 
 ---
 
@@ -38,7 +35,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:santossam969@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="36" />
   </a>
 </p>
 
@@ -82,26 +79,19 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.sublimetext.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="36" />
-</a>
-</p>
-
-
----
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="36" />
+  </a>
 </p>
 
 ---
 
-<!-- QUOTE -->
-<p align="center">
-  <i>
-    “We read to know we are not alone.”<br>
+<p align="center" style="max-width:600px; margin:auto; font-size:16px; line-height:1.6;">
+  <span style="font-family:Georgia, serif;">
+    “We read to know we are not alone.”
+  </span><br>
+  <span style="font-family:Georgia, serif; font-size:14px;">
     — C. S. Lewis
-  </i>
+  </span>
 </p>
 
 <p align="center">
@@ -110,8 +100,7 @@
 
 ---
 
-<!-- FOOTER SNAKE (BLACK & WHITE, CLEAN ENDING) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
        width="100%" />
 </p>
