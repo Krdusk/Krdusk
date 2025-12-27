@@ -9,7 +9,7 @@
 
 ---
 
-<!-- ABOUT (NO BOX) -->
+<!-- ABOUT -->
 <p align="center">
   I focus on understanding fundamentals, writing structured code, and building systems that work reliably.<br>
   Quiet by nature, I value focus, logic, and continuous improvement.
@@ -17,16 +17,8 @@
 
 ---
 
-<!-- BLACK & WHITE SNAKE (SEPARATOR, GOOD PLACEMENT) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       width="100%" />
-</p>
-
----
-
-<!-- MUSIC SECTION (SOFT, CLEAN) -->
-<h3 align="center">Peace Piece:</h3>
+<!-- MUSIC -->
+<h3 align="center">Peace Piece</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
@@ -38,42 +30,56 @@
 
 ---
 
-<!-- CONNECT (LIGHT STRUCTURE) -->
-<h3 align="center">Internet Accounts:</h3>
+<!-- INTERNET ACCOUNTS (LOGO ONLY) -->
+<h3 align="center">Internet Accounts</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:santossam969@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:santossam969@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36" />
   </a>
 </p>
 
 ---
 
-<!-- TECH STACK (NO BOX) -->
-<h3 align="center">Languages & Tools:</h3>
+<!-- LANGUAGES & TOOLS (LOGO ONLY) -->
+<h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
+  </a>
 </p>
 
 ---
 
-<!-- STATS (SOFT ENDING) -->
+<!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000" />
 </p>
 
 ---
 
-<!-- QUOTE FOOTER -->
+<!-- QUOTE -->
 <p align="center">
   <i>
     “We read to know we are not alone.”<br>
@@ -83,4 +89,12 @@
 
 <p align="center">
   <img src="./End.gif" width="160" style="border-radius:50%; margin-top:12px;" />
+</p>
+
+---
+
+<!-- FOOTER SNAKE (BLACK & WHITE, CLEAN ENDING) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+       width="100%" />
 </p>
