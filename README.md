@@ -4,14 +4,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=000000&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=000000&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines." />
 </p>
 
 ---
 
 <!-- ABOUT (NO BOX) -->
 <p align="center">
-  I am a Computer Science student currently studying at National University Philippines.<br>
   I focus on understanding fundamentals, writing structured code, and building systems that work reliably.<br>
   Quiet by nature, I value focus, logic, and continuous improvement.
 </p>
