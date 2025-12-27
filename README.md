@@ -1,5 +1,10 @@
-<!-- HEADER -->
-<h1 align="center">Hi. I am Sam.</h1>
+<!-- ANIMATED NAME BOX -->
+<p align="center">
+  <img
+    src="https://readme-svg-text-box.vercel.app/api?text=Hi.%20I%20am%20Sam.&font=Inter&size=42&weight=500&color=000000&bgColor=ffffff&borderColor=000000&borderWidth=1&radius=12&animation=bounce&duration=3"
+    alt="Hi. I am Sam."
+  />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=000000&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines" />
