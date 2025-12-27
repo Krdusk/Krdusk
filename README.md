@@ -26,7 +26,7 @@
 ---
 
 <!-- MUSIC SECTION (SOFT, CLEAN) -->
-<h3 align="center">Peace Piece</h3>
+<h3 align="center">Peace Piece:</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
@@ -39,7 +39,7 @@
 ---
 
 <!-- CONNECT (LIGHT STRUCTURE) -->
-<h3 align="center">Connect</h3>
+<h3 align="center">Internet Accounts:</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="_blank">
@@ -54,7 +54,7 @@
 ---
 
 <!-- TECH STACK (NO BOX) -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Languages & Tools:</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
