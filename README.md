@@ -18,7 +18,15 @@
 ---
 
 <!-- MUSIC -->
-<h3 align="center">Peace Piece</h3>
+<h3 align="center">Peace Piece:</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank">
+    <span style="color:#000000; font-weight:500; font-size:16px; text-decoration:none;">
+      Miserable at Best
+    </span>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
@@ -27,6 +35,7 @@
          style="border-radius:12px;" />
   </a>
 </p>
+
 
 ---
 
@@ -82,8 +91,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="36" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" width="36" />
+</a>
 </p>
 
 
