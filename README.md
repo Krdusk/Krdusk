@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi.%20I%20am%20Sam.&fontSize=42&fontAlignY=55&animation=fadeIn&color=E5E5E5&fontColor=000000&height=80" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&text=Hi.%20I%20am%20Sam.&fontSize=42&fontAlignY=55&animation=fadeIn&color=000000&fontColor=ffffff&height=80" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=6B6B6B&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines." />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3500&pause=1000&center=true&vCenter=true&color=000000&background=ffffff&width=720&lines=A+Computer+Science+Student+at+National+University+Philippines." />
 </p>
 
 ---
