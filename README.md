@@ -1,62 +1,117 @@
-<div align="center">
+<h1 align="center">Hi. I’m Sam.</h1>
 
-<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="5" y="5" width="790" height="140" rx="15" fill="#001d3d" />
-  <rect x="5" y="5" width="790" height="140" rx="15" stroke="#0077b6" stroke-width="4" stroke-dasharray="100 25">
-    <animate attributeName="stroke-dashoffset" from="0" to="500" dur="5s" repeatCount="indefinite" />
-  </rect>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="38" font-weight="bold">Hi. I am Sam Santos.</text>
-  <text x="50%" y="78%" dominant-baseline="middle" text-anchor="middle" fill="#90e0ef" font-family="Arial, sans-serif" font-size="18">Computer Science Student | National University Philippines</text>
-</svg>
 
-</div>
 
-<br>
+<p align="center">
 
-<h1 align="left">Hi. I’m Sam.</h1>
-<h3 align="left">A Computer Science student from National University Philippines.</h3>
+  • A <b>Computer Science</b> student<br>
 
-- **Status:** Currently learning how to build things that actually work.
-- **Personality:** Mostly introverted—thinking more than talking.
-- **Contact:** Reach me at **santossam969@gmail.com**
+  from <b>National University Philippines.</b><br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="mailto:santossam969@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  • Still learning how to build things that actually work.<br>
+
+  • Mostly introverted—thinking more than talking.
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-</p>
 
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Krdusk&show_icons=true&theme=dark&bg_color=001d3d&title_color=00b4d8&text_color=caf0f8&layout=compact" alt="Stats" />
-</p>
-
-<br><br><br><br><br>
 
 ---
 
-<h3 align="left">Peace Piece:</h3>
-<p align="left">
+
+
+## Peace Piece:
+
+<p align="center">
+
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" width="350" style="border-radius:10px; border: 1px solid #0077b6;">
+
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true" 
+
+         width="350" 
+
+         style="border-radius:10px; box-shadow: 0 0 15px rgba(29,185,84,0.4);">
+
   </a>
+
 </p>
 
-<h2 align="left">
-  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank" style="text-decoration:none; color: #58a6ff;">
-    Miserable at Best.
+
+
+---
+
+
+
+## Connect with Me:
+
+<p align="center">
+
+  <a href="https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="_blank">
+
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
   </a>
+
+  <a href="mailto:santossam969@gmail.com" target="_blank">
+
+    <img src="https://img.shields.io/badge/Electronic Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+  </a>
+
+</p>
+
+
+
+---
+
+
+
+## Coding Languages and Tools:
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/HTML5-e34c26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Visual Studio Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Sublime Text-FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krdusk&layout=compact&hide_border=true&bg_color=00000000" />
+
+</p>
+
+
+
+---
+
+
+
+<h2 align="center">
+
+  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank" style="text-decoration:none;">
+
+    Miserable at Best.
+
+  </a>
+
 </h2>
 
-<p align="left">
-  <img src="./End.gif" width="160" style="border-radius:50%; border: 2px solid #0077b6; padding: 4px;" />
+<p align="center">
+
+  <img src="./End.gif" width="200" style="margin-top: 20px; border-radius:50%;" />
+
 </p>
