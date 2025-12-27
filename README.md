@@ -30,7 +30,6 @@
 
 ---
 
-<!-- INTERNET ACCOUNTS (LOGO ONLY) -->
 <h3 align="center">Internet Accounts</h3>
 
 <p align="center">
@@ -45,7 +44,6 @@
 
 ---
 
-<!-- LANGUAGES & TOOLS (LOGO ONLY) -->
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
@@ -61,6 +59,16 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" />
+  </a>
+</p>
+
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" />
   </a>
@@ -68,7 +76,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.sublimetext.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sublime/sublime-original.svg" width="36" />
+  </a>
 </p>
+
 
 ---
 
