@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">Internet Accounts:</h3>
+<h3 align="center">Connect With Me:</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="_blank">
