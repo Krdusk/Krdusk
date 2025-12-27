@@ -87,7 +87,7 @@
 
 <p align="center" style="max-width:600px; margin:auto; font-size:16px; line-height:1.6;">
   <span style="font-family:Georgia, serif;">
-    You may think I'm small, but I have a universe inside my mind.
+    You may think I’m small, but I have a universe inside my mind.
   </span><br>
 </p>
 
