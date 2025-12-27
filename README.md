@@ -99,9 +99,7 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-light.svg"
-       width="100%" 
-       style="filter: grayscale(100%) brightness(60%);" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake-light.svg"
+       width="100%" />
 </p>
