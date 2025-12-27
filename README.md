@@ -99,7 +99,5 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake-light.svg"
-       width="100%" />
-</p>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" /> </p>
