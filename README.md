@@ -19,15 +19,6 @@
 
 <!-- MUSIC -->
 <h3 align="center">Peace Piece:</h3>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/1ONoPkp5XIuw3tZ1GzrNKZ?si=TapiYbYhSOCtmVjcAx4mrg" target="_blank">
-    <span style="color:#000000; font-weight:500; font-size:16px; text-decoration:none;">
-      Miserable at Best
-    </span>
-  </a>
-</p>
-
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=false&theme=default&show_offline=true&background_color=ffffff&interchange=true"
