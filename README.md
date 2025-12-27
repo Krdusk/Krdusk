@@ -87,11 +87,8 @@
 
 <p align="center" style="max-width:600px; margin:auto; font-size:16px; line-height:1.6;">
   <span style="font-family:Georgia, serif;">
-    “We read to know we are not alone.”
+    You may think I'm small, but I have a universe inside my mind.
   </span><br>
-  <span style="font-family:Georgia, serif; font-size:14px;">
-    By: C. Lewis
-  </span>
 </p>
 
 <p align="center">
