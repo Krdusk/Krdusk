@@ -15,7 +15,7 @@
 
 ---
 
-<h3 align="center">Peace Piece</h3>
+<h3 align="center">Peace Piece:</h3>
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
@@ -27,7 +27,7 @@
 
 ---
 
-<h3 align="center">Internet Accounts</h3>
+<h3 align="center">Internet Accounts:</h3>
 
 <p align="center">
   <a href="https://www.facebook.com/share/1FFJopwvS3/?mibextid=wwXIfr" target="_blank">
@@ -41,7 +41,7 @@
 
 ---
 
-<h3 align="center">Languages & Tools</h3>
+<h3 align="center">Languages & Tools:</h3>
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
@@ -90,7 +90,7 @@
     “We read to know we are not alone.”
   </span><br>
   <span style="font-family:Georgia, serif; font-size:14px;">
-    — C. S. Lewis
+    By: C. Lewis
   </span>
 </p>
 
