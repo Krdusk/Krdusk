@@ -9,8 +9,8 @@
 ---
 
 <p align="center">
-  I focus on understanding fundamentals, writing structured code, and building systems that work reliably.<br>
-  Quiet by nature, I value focus, logic, and continuous improvement.
+  • I focus on understanding fundamentals, writing structured code, and building systems that work reliably.<br>
+  • Quiet by nature, I value focus, logic, and continuous improvement.
 </p>
 
 ---
