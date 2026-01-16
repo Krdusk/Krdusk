@@ -18,7 +18,7 @@
 <h3 align="center">Peace Piece:</h3>
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&redirect=true">
+  <a href="">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b5svyvfy3tqtk2oln3busdiz7e&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=true&accent_color=1DB954"
          width="350"
          style="border-radius:12px;" />
