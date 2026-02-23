@@ -15,24 +15,15 @@
 
 ---
 
-<h3 align="center">🎵 Peace Piece — What I'm Listening To:</h3>
+<h3 align="center">Peace Piece: </h3>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nfzzmnfgzrrtwdzmudgl3pshq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=ffffff&bar_color_cover=true" 
+    <img src="https://novatorem-lemon-psi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" 
          width="400"
+         height="120"
          style="border-radius:12px;" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nfzzmnfgzrrtwdzmudgl3pshq&count=3&width=400" 
-       width="400"
-       style="border-radius:12px;" />
-</p>
-
-<p align="center">
-  <sub>🎧 Shows what I'm currently playing or recently listened to</sub>
 </p>
 
 ---
