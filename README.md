@@ -19,11 +19,15 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nfzzmnfgzrrtwdzmudgl36pshq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" 
+    <img src="https://novatorem-lemon-psi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&hide_title=true" 
          alt="Spotify Now Playing" 
          width="400" 
          style="border-radius:12px;" />
   </a>
+</p>
+
+<p align="center">
+  <sub>spotify</sub>
 </p>
 
 ---
