@@ -17,18 +17,11 @@
 
 <h3 align="center">Peace Piece: </h3>
 
-<p align="center">
+&nbsp;<div align="center">
   <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq" target="_blank">
-    <img src="https://novatorem-lemon-psi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&hide_title=true" 
-         alt="Spotify Now Playing" 
-         width="400" 
-         style="border-radius:12px;" />
+    <img src="https://novatorem-phi-lemon.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="400" style="border-radius:12px;" />
   </a>
-</p>
-
-<p align="center">
-  <sub>spotify</sub>
-</p>
+</div>
 
 ---
 
