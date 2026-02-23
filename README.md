@@ -15,16 +15,6 @@
 
 ---
 
-<h3 align="center">Peace Piece: </h3>
-
-&nbsp;<div align="center">
-  <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq" target="_blank">
-    <img src="https://novatorem-phi-lemon.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="400" style="border-radius:12px;" />
-  </a>
-</div>
-
----
-
 <h3 align="center">Connect With Me:</h3>
 
 <p align="center">
