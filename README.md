@@ -18,12 +18,15 @@
 <h3 align="center">Peace Piece: </h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nfzzmnfgzrrtwdzmudgl36pshq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" 
-         width="400"
-         style="border-radius:12px;" />
+  <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq">
+    <img src="https://novatorem-phi-lemon.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nfzzmnfgzrrtwdzmudgl36pshq&count=3&width=350" alt="Recent Tracks" width="350" />
+</p>
+
 
 ---
 
