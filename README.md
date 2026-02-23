@@ -19,9 +19,8 @@
 
 <p align="center">
   <a href="https://open.spotify.com/user/31nfzzmnfgzrrtwdzmudgl36pshq" target="_blank">
-    <img src="https://novatorem-lemon-psi.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" 
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31nfzzmnfgzrrtwdzmudgl36pshq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" 
          width="400"
-         height="120"
          style="border-radius:12px;" />
   </a>
 </p>
