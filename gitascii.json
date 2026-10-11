@@ -11779,9 +11779,15 @@
           "facebook",
           "instagram"
         ],
-        "label_github": "",
-        "label_linkedin": "",
-        "animSpeed": "14s"
+        "label_github": "https://github.com/Krdusk/Krdusk",
+        "label_linkedin": "https://www.linkedin.com/in/samantha-lui-santos-436986392/",
+        "animSpeed": "14s",
+        "renderMode": "multi",
+        "showText": false,
+        "label_gmail": "santoslui9669@gmail.com",
+        "label_discord": "hghluwigi",
+        "label_facebook": "https://www.facebook.com/profile.php?id=61563576951533",
+        "label_instagram": "https://www.instagram.com/hghluwigi/"
       },
       "locked": false,
       "visible": true,
@@ -11823,7 +11829,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791715322475_2xyvj",
-    "updatedAt": "2026-10-11T10:42:06.287Z"
+    "revision": "rev_1791720300322_wihu0",
+    "updatedAt": "2026-10-11T12:05:03.074Z"
   }
 }
