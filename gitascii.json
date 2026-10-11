@@ -2,28 +2,11 @@
   "username": "Krdusk",
   "widgets": [
     {
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1791703658475_0"
-    },
-    {
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
-        "x": 0,
-        "y": 106
+        "x": 8,
+        "y": 416
       },
       "size": {
         "width": 296,
@@ -11524,71 +11507,15 @@
       "instanceId": "widget_1791703658475_1"
     },
     {
-      "widgetId": "terminal-info",
-      "name": "Terminal-info Widget",
-      "position": {
-        "x": 296,
-        "y": 184
-      },
-      "size": {
-        "width": 456,
-        "height": 232
-      },
-      "config": {
-        "showEmail": true,
-        "showTwitter": false,
-        "showOrgs": false,
-        "customContactTitle": "Contact",
-        "customWebsite": "",
-        "customEmail": "santoslui9669@gmail.com",
-        "dotLeaders": true,
-        "lockAspectRatio": false,
-        "showStatsSection": false,
-        "showJoined": false,
-        "showTimezone": true,
-        "showAchievements": true,
-        "showWebsite": false,
-        "showTitle": true,
-        "hideBorder": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 3,
-      "instanceId": "widget_1791703658475_2"
-    },
-    {
-      "widgetId": "languages",
-      "name": "Languages Widget",
-      "position": {
-        "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 480,
-        "height": 312
-      },
-      "config": {
-        "customTitle": "Top Languages:",
-        "showPercentage": false,
-        "langsLayout": "donut",
-        "showTitle": true,
-        "langsCount": 10
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1791703658475_3"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 496,
-        "y": 402
+        "x": 296,
+        "y": 784
       },
       "size": {
-        "width": 304,
-        "height": 466
+        "width": 488,
+        "height": 288
       },
       "config": {
         "selectedTechs": [
@@ -11623,7 +11550,8 @@
         "animationType": "typewriter",
         "animationPreviewKey": 5,
         "showTitle": true,
-        "customTitle": "Technologies & Skills:"
+        "customTitle": "Technologies & Skills:",
+        "hideBorder": false
       },
       "locked": false,
       "visible": true,
@@ -11635,12 +11563,12 @@
       "widgetId": "gitfut-card",
       "name": "Gitfut-card Widget",
       "position": {
-        "x": 232,
-        "y": 738
+        "x": 72,
+        "y": 708
       },
       "size": {
-        "width": 224,
-        "height": 264
+        "width": 140,
+        "height": 148
       },
       "config": {
         "transparentBackground": true,
@@ -11656,125 +11584,216 @@
       "zIndex": 8
     },
     {
-      "instanceId": "widget_1791703849224",
+      "instanceId": "widget_1791713836783",
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 0,
-        "y": 738
+        "x": 46,
+        "y": 880
       },
       "size": {
-        "width": 248,
-        "height": 264
+        "width": 192,
+        "height": 216
       },
       "config": {
-        "searchQuery": "Mewtwo",
+        "searchQuery": "Pikachu",
         "searchCards": [
           {
-            "id": "basep-3",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/basep/3/low.png"
+            "id": "fut2020-1",
+            "name": "Pikachu on the Ball",
+            "image": "https://assets.tcgdex.net/en/swsh/fut2020/1/low.png"
           },
           {
-            "id": "dp5-9",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/dp/dp5/9/low.png"
+            "id": "basep-1",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/1/low.png"
           },
           {
-            "id": "ru1-9",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/pl/ru1/9/low.png"
+            "id": "basep-4",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/base/basep/4/low.png"
           },
           {
-            "id": "P-A-010",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.png"
+            "id": "cel25-5",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/5/low.png"
           },
           {
-            "id": "base4-10",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/base4/10/low.png"
+            "id": "cel25-6",
+            "name": "Flying Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/6/low.png"
           },
           {
-            "id": "base1-10",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/base1/10/low.png"
+            "id": "cel25-7",
+            "name": "Flying Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/7/low.png"
           },
           {
-            "id": "dp6-11",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/dp/dp6/11/low.png"
+            "id": "ru1-7",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pl/ru1/7/low.png"
           },
           {
-            "id": "det1-12",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/sm/det1/12/low.png"
+            "id": "cel25-8",
+            "name": "Surfing Pikachu V",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/8/low.png"
           },
           {
-            "id": "ex11-12",
-            "name": "Mewtwo δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex11/12/low.png"
+            "id": "P-A-009",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.png"
           },
           {
-            "id": "basep-12",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/basep/12/low.png"
+            "id": "pop6-9",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop6/9/low.png"
           },
           {
-            "id": "basep-14",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/base/basep/14/low.png"
+            "id": "cel25-9",
+            "name": "Surfing Pikachu VMAX",
+            "image": "https://assets.tcgdex.net/en/swsh/cel25/9/low.png"
           },
           {
-            "id": "gym2-14",
-            "name": "Rocket's Mewtwo",
-            "image": "https://assets.tcgdex.net/en/gym/gym2/14/low.png"
+            "id": "det1-10",
+            "name": "Detective Pikachu",
+            "image": "https://assets.tcgdex.net/en/sm/det1/10/low.png"
           },
           {
-            "id": "ecard1-20",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard1/20/low.png"
+            "id": "np-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/np/12/low.png"
           },
           {
-            "id": "ex13-24",
-            "name": "Mewtwo δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex13/24/low.png"
+            "id": "pop5-12",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/12/low.png"
           },
           {
-            "id": "lc-29",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/lc/lc/29/low.png"
+            "id": "pop5-13",
+            "name": "Pikachu δ",
+            "image": "https://assets.tcgdex.net/en/pop/pop5/13/low.png"
           },
           {
-            "id": "swsh10.5-030",
-            "name": "Mewtwo V",
-            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/030/low.png"
+            "id": "pop4-13",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop4/13/low.png"
           },
           {
-            "id": "sm115-31",
-            "name": "Mewtwo GX",
-            "image": "https://assets.tcgdex.net/en/sm/sm115/31/low.png"
+            "id": "P-A-015",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/tcgp/P-A/015/low.png"
           },
           {
-            "id": "swsh10.5-031",
-            "name": "Mewtwo VSTAR",
-            "image": "https://assets.tcgdex.net/en/swsh/swsh10.5/031/low.png"
+            "id": "pop9-15",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop9/15/low.png"
           },
           {
-            "id": "P-A-050",
-            "name": "Mewtwo ex",
-            "image": "https://assets.tcgdex.net/en/tcgp/P-A/050/low.png"
+            "id": "pop2-16",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/pop/pop2/16/low.png"
           },
           {
-            "id": "xy12-51",
-            "name": "Mewtwo",
-            "image": "https://assets.tcgdex.net/en/xy/xy12/51/low.png"
+            "id": "sv04.5-018",
+            "name": "Pikachu",
+            "image": "https://assets.tcgdex.net/en/sv/sv04.5/018/low.png"
           }
         ],
-        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/010/low.png",
-        "animationType": "glitch",
-        "animationPreviewKey": 1
+        "imageUrl": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.webp",
+        "cardRawUrl": "https://assets.tcgdex.net/en/tcgp/P-A/009/low.png",
+        "enableHolo": false
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1791714006593",
+      "widgetId": "codeweb-hero-orbit",
+      "name": "Codeweb-hero-orbit Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 312
+      },
+      "config": {},
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1791714093383",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 8,
+        "y": 1120
+      },
+      "size": {
+        "width": 784,
+        "height": 224
+      },
+      "config": {
+        "terminalText": "> Open to collaborations.",
+        "titleLine1": "Building things quietly",
+        "aboutTag": "",
+        "leftGifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtnNG54bHp2amV1OHhkYWJrZWp2dWFubXozOTY5cnhmbjZudTE3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/P8ef3Dkynk0xLx1h1T/giphy.gif",
+        "card1Text": "Hail and aim.",
+        "card1GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJwZmh5bzc1Z3lxb2IxeWFkMnE5bWxyb2J1NTEwdms0dmkzZjJxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vK1p6B4hV6MhGNC2co/giphy.gif",
+        "card2Text": "snooze and meow.",
+        "card2GifUrl": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh2MHY0OW1veDE0ejc0ZW53cWpjMnR5OGNibnpxanF1aTBweTI2MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Mu0qofSGBwcydYMDne/giphy.gif"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 8
+    },
+    {
+      "instanceId": "widget_1791714112110",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 330
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "linkedin",
+          "discord",
+          "gmail",
+          "facebook",
+          "instagram"
+        ],
+        "label_github": "",
+        "label_linkedin": "",
+        "animSpeed": "14s"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 9
+    },
+    {
+      "instanceId": "widget_1791714268858",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
+      "position": {
+        "x": 312,
+        "y": 392
+      },
+      "size": {
+        "width": 456,
+        "height": 376
+      },
+      "config": {
+        "accentColor": "#55ffff",
+        "customTitle": "Terminal Telemetry"
       },
       "locked": false,
       "visible": true,
@@ -11790,12 +11809,13 @@
     "borderRadius": 24,
     "padding": 24,
     "themeMode": "dark",
-    "templateStyle": "native"
+    "templateStyle": "native",
+    "transparentBackground": true
   },
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791713785636_ue3kc",
-    "updatedAt": "2026-10-11T10:16:30.890Z"
+    "revision": "rev_1791715002081_ecnoo",
+    "updatedAt": "2026-10-11T10:36:47.012Z"
   }
 }
