@@ -11528,16 +11528,28 @@
       "name": "Terminal-info Widget",
       "position": {
         "x": 296,
-        "y": 106
+        "y": 184
       },
       "size": {
-        "width": 504,
-        "height": 264
+        "width": 456,
+        "height": 232
       },
       "config": {
         "showEmail": true,
-        "showTwitter": true,
-        "showOrgs": false
+        "showTwitter": false,
+        "showOrgs": false,
+        "customContactTitle": "Contact",
+        "customWebsite": "",
+        "customEmail": "santoslui9669@gmail.com",
+        "dotLeaders": true,
+        "lockAspectRatio": false,
+        "showStatsSection": false,
+        "showJoined": false,
+        "showTimezone": true,
+        "showAchievements": true,
+        "showWebsite": false,
+        "showTitle": true,
+        "hideBorder": true
       },
       "locked": false,
       "visible": true,
@@ -11552,44 +11564,31 @@
         "y": 402
       },
       "size": {
-        "width": 536,
-        "height": 160
+        "width": 480,
+        "height": 312
       },
-      "config": {},
+      "config": {
+        "customTitle": "Top Languages:",
+        "showPercentage": false,
+        "langsLayout": "donut",
+        "showTitle": true,
+        "langsCount": 10
+      },
       "locked": false,
       "visible": true,
       "zIndex": 4,
       "instanceId": "widget_1791703658475_3"
     },
     {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 960
-      },
-      "size": {
-        "width": 784,
-        "height": 48
-      },
-      "config": {
-        "showTitle": true
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1791703658475_4"
-    },
-    {
       "widgetId": "tech-stack",
       "name": "Tech-stack Widget",
       "position": {
-        "x": 544,
+        "x": 496,
         "y": 402
       },
       "size": {
-        "width": 240,
-        "height": 160
+        "width": 304,
+        "height": 466
       },
       "config": {
         "selectedTechs": [
@@ -11622,7 +11621,9 @@
         "theme": "dark",
         "perLine": 4,
         "animationType": "typewriter",
-        "animationPreviewKey": 5
+        "animationPreviewKey": 5,
+        "showTitle": true,
+        "customTitle": "Technologies & Skills:"
       },
       "locked": false,
       "visible": true,
@@ -11630,141 +11631,16 @@
       "instanceId": "widget_1791703658475_5"
     },
     {
-      "instanceId": "widget_1791703697945",
-      "widgetId": "pokemon-card",
-      "name": "Pokemon-card Widget",
-      "position": {
-        "x": 52,
-        "y": 636
-      },
-      "size": {
-        "width": 176,
-        "height": 272
-      },
-      "config": {
-        "searchQuery": "Umbreon",
-        "searchCards": [
-          {
-            "id": "hgss3-10",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/hgss/hgss3/10/low.png"
-          },
-          {
-            "id": "neo2-13",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/neo/neo2/13/low.png"
-          },
-          {
-            "id": "ex11-17",
-            "name": "Umbreon δ",
-            "image": "https://assets.tcgdex.net/en/ex/ex11/17/low.png"
-          },
-          {
-            "id": "pop5-17",
-            "name": "Umbreon ★",
-            "image": "https://assets.tcgdex.net/en/pop/pop5/17/low.png"
-          },
-          {
-            "id": "col1-22",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/col/col1/22/low.png"
-          },
-          {
-            "id": "ex2-24",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/ex/ex2/24/low.png"
-          },
-          {
-            "id": "dp5-32",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/dp/dp5/32/low.png"
-          },
-          {
-            "id": "neo2-32",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/neo/neo2/32/low.png"
-          },
-          {
-            "id": "ecard3-32",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard3/32/low.png"
-          },
-          {
-            "id": "ecard2-41",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/ecard/ecard2/41/low.png"
-          },
-          {
-            "id": "A3b-043",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/tcgp/A3b/043/low.png"
-          },
-          {
-            "id": "xy10-55",
-            "name": "Umbreon EX",
-            "image": "https://assets.tcgdex.net/en/xy/xy10/55/low.png"
-          },
-          {
-            "id": "sv08.5-059",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/sv/sv08.5/059/low.png"
-          },
-          {
-            "id": "bw5-60",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/bw/bw5/60/low.png"
-          },
-          {
-            "id": "sv08.5-060",
-            "name": "Umbreon ex",
-            "image": "https://assets.tcgdex.net/en/sv/sv08.5/060/low.png"
-          },
-          {
-            "id": "bw5-61",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/bw/bw5/61/low.png"
-          },
-          {
-            "id": "bw9-64",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/bw/bw9/64/low.png"
-          },
-          {
-            "id": "A3b-077",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/tcgp/A3b/077/low.png"
-          },
-          {
-            "id": "sm1-80",
-            "name": "Umbreon GX",
-            "image": "https://assets.tcgdex.net/en/sm/sm1/80/low.png"
-          },
-          {
-            "id": "hgss3-86",
-            "name": "Umbreon",
-            "image": "https://assets.tcgdex.net/en/hgss/hgss3/86/low.png"
-          }
-        ],
-        "imageUrl": "https://assets.tcgdex.net/en/hgss/hgss3/10/low.webp",
-        "cardRawUrl": "https://assets.tcgdex.net/en/hgss/hgss3/10/low.png",
-        "animationType": "glitch",
-        "animationPreviewKey": 4
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
       "instanceId": "widget_1791703804090",
       "widgetId": "gitfut-card",
       "name": "Gitfut-card Widget",
       "position": {
-        "x": 276,
-        "y": 628
+        "x": 232,
+        "y": 738
       },
       "size": {
-        "width": 248,
-        "height": 288
+        "width": 224,
+        "height": 264
       },
       "config": {
         "transparentBackground": true,
@@ -11784,12 +11660,12 @@
       "widgetId": "pokemon-card",
       "name": "Pokemon-card Widget",
       "position": {
-        "x": 536,
-        "y": 652
+        "x": 0,
+        "y": 738
       },
       "size": {
-        "width": 240,
-        "height": 240
+        "width": 248,
+        "height": 264
       },
       "config": {
         "searchQuery": "Mewtwo",
@@ -11919,7 +11795,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791710427756_wx66f",
-    "updatedAt": "2026-10-11T09:20:31.982Z"
+    "revision": "rev_1791713785636_ue3kc",
+    "updatedAt": "2026-10-11T10:16:30.890Z"
   }
 }
