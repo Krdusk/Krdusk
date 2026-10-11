@@ -356,26 +356,26 @@
       <!-- Main Content -->
       <g>
         <!-- Title -->
-        <text x="400" y="156" text-anchor="middle" fill="#ffffff" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="4">LUI SANTOS</text>
+        <text x="400" y="156" text-anchor="middle" fill="#ffffff" font-family="'SF Pro Display', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="4">SAM SANTOS</text>
 
         <!-- Subtitle -->
-        <text x="400" y="194" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3">DESIGNER / CREATOR</text>
+        <text x="400" y="194" text-anchor="middle" fill="rgba(255,255,255,0.4)" font-family="'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="600" letter-spacing="3">STUDENT / FORMER ATHLETE</text>
 
         <!-- Pills -->
         
       <g id="hero-tag-0">
-        <rect x="255.25" y="230" width="99" height="26" rx="13" ry="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1.2" />
-        <text x="304.75" y="247" text-anchor="middle" fill="rgba(255,255,255,0.65)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Minimalism</text>
+        <rect x="63.25" y="230" width="279" height="26" rx="13" ry="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1.2" />
+        <text x="202.75" y="247" text-anchor="middle" fill="rgba(255,255,255,0.65)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Aspiring Machine Learning Engineer</text>
       </g>
     
       <g id="hero-tag-1">
-        <rect x="366.25" y="230" width="106.5" height="26" rx="13" ry="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1.2" />
-        <text x="419.5" y="247" text-anchor="middle" fill="rgba(255,255,255,0.65)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Open Source</text>
+        <rect x="354.25" y="230" width="174" height="26" rx="13" ry="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1.2" />
+        <text x="441.25" y="247" text-anchor="middle" fill="rgba(255,255,255,0.65)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Full-Stack Developer</text>
       </g>
     
       <g id="hero-tag-2">
-        <rect x="484.75" y="230" width="60" height="26" rx="13" ry="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1.2" />
-        <text x="514.75" y="247" text-anchor="middle" fill="rgba(255,255,255,0.65)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Web</text>
+        <rect x="540.25" y="230" width="196.5" height="26" rx="13" ry="13" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.09)" stroke-width="1.2" />
+        <text x="638.5" y="247" text-anchor="middle" fill="rgba(255,255,255,0.65)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="400" letter-spacing="0.5">Artificial Intelligence</text>
       </g>
     
       </g>

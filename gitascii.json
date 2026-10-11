@@ -11719,7 +11719,15 @@
         "width": 800,
         "height": 312
       },
-      "config": {},
+      "config": {
+        "tags": [
+          "Aspiring Machine Learning Engineer",
+          "Full-Stack Developer",
+          "Artificial Intelligence"
+        ],
+        "subtitle": "Student / former athlete",
+        "title": "Sam santos"
+      },
       "locked": false,
       "visible": true,
       "zIndex": 8
@@ -11815,7 +11823,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1791715002081_ecnoo",
-    "updatedAt": "2026-10-11T10:36:47.012Z"
+    "revision": "rev_1791715126408_k0nsg",
+    "updatedAt": "2026-10-11T10:38:50.086Z"
   }
 }
